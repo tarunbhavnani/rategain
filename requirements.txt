@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+httpx  # for async API calls
+python-dotenv  # for secrets like API keys
